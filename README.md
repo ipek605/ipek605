@@ -40,6 +40,14 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" style="padding-right:10px;" />
+
+
+
+
+
 <br>
 
 ##
