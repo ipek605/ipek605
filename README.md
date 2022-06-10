@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Developer, Graphic Designer, Photographer and Physicist
+## I'm a Developer, Graphic Designer, Photographer
 
 - 🌱 I’m currently learning Web Development
 - 🔭 Aiming to become a successful junior developer
