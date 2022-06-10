@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 🔭 Aiming to become a successful junior developer
 - 👯 I’m looking to collaborate on web development projects
-- 📫 How to reach me: https://www.linkedin.com/in/ipek-demirel-soltanov/
+- 📫 How to reach me: ipeksoltanov@hotmail.com
 
 
 ## Languages and Tools
